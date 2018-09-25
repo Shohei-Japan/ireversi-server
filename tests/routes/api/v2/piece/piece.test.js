@@ -1,6 +1,6 @@
 const chai = require('chai');
-const PieceModel = require('../../../../src/models/v2/PieceModel.js');
-const app = require('../../../../src/routes/app.js');
+const PieceModel = require('../../../../../src/models/v2/PieceModel.js');
+const app = require('../../../../../src/routes/app.js');
 
 const ZERO0 = 0;
 
